@@ -4,7 +4,7 @@ i = 0
 j = 0
 
 while i in range(0, 11):
-    print("Table of ", i, ": ", sep="", end="")
+    print(f"Table of {i}",  end=": ")
     while j in range(0, 11):
         print(i * j, end=" ")
         j += 1
