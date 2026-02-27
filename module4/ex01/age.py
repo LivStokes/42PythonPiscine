@@ -10,7 +10,3 @@ i = 0
 while i < 40:
     print(f"In {i} years, you'll be {i + age} years old.")
     i += 10
-
-#print(f"In {year} years, you'll be {year + age} years old.")
-#print(f"In {year} years, you'll be {year + age} years old.")
-#print(f"In {year} years, you'll be {year + age} years old.")

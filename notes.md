@@ -46,4 +46,29 @@ while True:
 - The function range() allows me to get the range from one number to the next, e.g. range(0, 11) counts from 0 - 10.
 
 ## Module 4
+- Type checking for numbers. e.g. float,integer, decimal.
+- Need to do type checking. Can do this with isinstance() or isdigit().
+- isdigit() returns true is all characters in a string are digirs and false if othersie. Onlt works for strings bytes and bytearray objects
+- isinstance() checks if an object is an instance of a specified class or type. It works by data type checking includeinf integers, floats, lists and custom classes.
+- I never used the function. Instead I created a seperate variable and set it as an integer. Then I asked it if number == checker then it is an int, or visa versa.
+- Converting a string characters to its opposing case. 
+- lower() returns a string in lowercase.
+- upper() returns a string in uppercase.
+- swapcase() returns a string with lowercase swapped to uppercase and uppercase swapped to lowercase.
 
+## Module 5
+- How to define an array?
+- Python does not have built-in support for Arrays, but python lists can be used instead.
+- array = [1, 2, 3, 4, 5] || array = ["hello", "my", "name", "is"," Olivia"]
+- Or I can use list(). This function creates a list of objects.
+- To remove fuplicates from an array, use set().
+- 
+
+## Module 6
+This module is about parameters.
+- Utilising sys.argv to print a specific argumnet to the terminal.
+
+## Module 7
+
+
+## Module 8
